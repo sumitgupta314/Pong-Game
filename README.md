@@ -9,12 +9,12 @@ I have added comments in my code to specify what each section of code does
 How to play:
 - The pong ball starts at the middle of the screen and randomly chooses a direction to move at.
 - The left player's controls are:
-    press "w" to move the paddle up
-    press "s" to move the paddle down
+    press "w" to move the paddle up,
+    press "s" to move the paddle down.
 - The right player's controls are:
-    press 'up arrow key' to move the paddle up
-    press 'down arrow key' to move the paddle down
-- The objective is to get as many points as you can
+    press 'up arrow key' to move the paddle up, 
+    press 'down arrow key' to move the paddle down.
+- The objective is to get as many points as you can.
 
 How to run this game:
 1. Download the project files on a local folder on your computer
