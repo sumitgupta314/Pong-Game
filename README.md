@@ -4,7 +4,7 @@ This is my first game on python that I made entirely on my own using the pygame 
 I developed this game using Object-Oriented Programming principles.
 I learned about pygame from resources on the internet such as tutorials from youtube and pygame api.
 While developing this game, I used the pygame api documentation here: https://devdocs.io/pygame/
-I have added comments in my code to specify what each section of code does.
+I have added comments in my code to specify what each section of the code does.
 
 How to play:
 - The pong ball starts at the middle of the screen and randomly chooses a direction to move at.
